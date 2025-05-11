@@ -1,17 +1,15 @@
 [![MasterHead](https://www.chimaera.de/assets/_processed_/2/f/csm_DevelopmentHeader_sm_4a351a16e5.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdulrahman Mohammed Alqarni</h1>
 <h3 align="center">Computer Science graduated from King Abdulaziz University. I am a passionate full-stack developer with experience in crafting responsive, user- friendly web applications. Proficient in HTML, CSS, Bootstrap, and JavaScript, I build dynamic front-end interfaces and back them up with robust ASP.NET Core services.</h3>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-cs&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-cs" /> </p>
 
-- Designed and implemented a VR-based job interview simulator that allows users to practice interviews in realistic 3D environments. Integrated AI models to generate questions based on users’ uploaded CVs, analyze spoken responses, and deliver personalized feedback. The backend handles session tracking, performance reporting, and user management through a microservices architecture. [Intelligent Virtual Reality Job Interview Simulator (Unity, AI, ASP.NET Core, FastAPI)](https://github.com/Abdulrahman-CS/Senior-Project)
+- Designed and implemented a VR-based job interview simulator that allows users to practice interviews in realistic 3D environments. Integrated AI models to generate questions based on users’ uploaded CVs, analyze spoken responses, and deliver personalized feedback. [Click Here](https://github.com/Abdulrahman-CS/Senior-Project)
 
-- Developed a full-stack gym equipment management web application that allows users to browse, search, sort, filter, and edit inventory data in real time. The Front-End presents a responsive HTML/CSS/JavaScript interface featuring a dynamic, searchable, filterable, and sortable equipment table. The Back-End, built as an ASP.NET Core Web API, exposes CRUD endpoints and handles business logic, and session management. [GYM Full Stack Web using .NET Core](https://github.com/Abdulrahman-CS/GYM-Full-Stack-Web-App-NET-Core)
+- Developed a full-stack gym equipment management web application that allows users to browse, search, sort, filter, and edit inventory data in real time. [Click Here](https://github.com/Abdulrahman-CS/GYM-Full-Stack-Web-App-NET-Core)
 
-- Developed a Distributed and Concurrent Web Crawler in Java, utilizing the Master/Slave pattern to extract URLs embedded in web pages automatically. The master component divides tasks among multiple slave components, processing tasks and returning results to the master, enabling horizontal scaling by adding more devices. [Distributed and Concurrent Web Crawler (Java)](https://github.com/Abdulrahman-CS/Web-Crawler-Java)
+- Developed a Distributed and Concurrent Web Crawler in Java, utilizing the Master/Slave pattern to extract URLs embedded in web pages automatically. [Click Here](https://github.com/Abdulrahman-CS/Web-Crawler-Java)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
