@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Mohammed Alqarni</h1>
 <h3 align="center">Computer Science graduated from King Abdulaziz University. I am a passionate full-stack developer with experience in crafting responsive, user- friendly web applications. Proficient in HTML, CSS, Bootstrap, and JavaScript, I build dynamic front-end interfaces and back them up with robust ASP.NET Core services.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-cs&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-cs" /> </p>
 
 - Designed and implemented a VR-based job interview simulator that allows users to practice interviews in realistic 3D environments. Integrated AI models to generate questions based on users’ uploaded CVs, analyze spoken responses, and deliver personalized feedback. The backend handles session tracking, performance reporting, and user management through a microservices architecture. [Intelligent Virtual Reality Job Interview Simulator (Unity, AI, ASP.NET Core, FastAPI)](https://github.com/Abdulrahman-CS/Senior-Project)
